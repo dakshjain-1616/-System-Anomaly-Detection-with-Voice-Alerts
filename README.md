@@ -35,7 +35,7 @@ brew install rcli
 ### 2. Clone and install
 
 ```bash
-git clone https://github.com/your-username/anomaly-detection.git
+git clone https://github.com/dakshjain-1616/-System-Anomaly-Detection-with-Voice-Alerts
 cd anomaly-detection
 
 python3 -m venv venv
