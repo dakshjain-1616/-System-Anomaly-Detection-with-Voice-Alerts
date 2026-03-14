@@ -1,0 +1,29 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Model (regenerate with: python train.py)
+model.pkl
+
+# Generated runtime files
+anomaly_log.csv
+monitor.log
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+*.swp
+
+# Test artifacts
+.pytest_cache/
+tests/__pycache__/
+
+# Claude internal
+.claude/
